@@ -1,8 +1,8 @@
 # my1
--this is for my first project
--in this project i am written a code in html programming language
--then i will put that code on my github
--after that i create a aws server called httpd
--then i install the git tool
--then i push the repository from github to aws server with the help of git
-- this is the project
+- this is for my first project
+- In this project first i written a code in html language
+- then i will put that code on my github
+- then i create a aws server called httpd
+- then i start the services of the created server
+- after that i install the git tool in my aws server
+- after that i push the repository from the git to server
